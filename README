@@ -1,0 +1,10 @@
+This class can perform several types of validation of text values. It can:
+
+- Check if a number is between a minimum and a maximum value
+- Check if an e-mail address is valid
+- Check if an URL is valid
+- Check if an IP address is valid
+- Check if a string address is alpha-numeric or contains a range of characters
+- Check if the length of a string is between a maximum and minimum length
+- Check if the size of a file is between a minimum and maximum length
+- Check if an image file has a size between a minimum and maximum width and height
