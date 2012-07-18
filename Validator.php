@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Validator class
+ * Validator class 
  */
 class Validator {
 
@@ -94,9 +94,5 @@ class Validator {
         return true;
     }
     
-    public static function tryMe()
-    {
-        echo "Thank you for using my class ! The class is fucking awesome";
-    }
-
+    
 }
