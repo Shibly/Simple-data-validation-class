@@ -1,0 +1,3 @@
+Simple Data validator class is a php class that allow you to sanitize different types of data while submitting a web form.
+The class is fairly simple to use and you can use it to you plain php project or with any php framework. The class is easily 
+extendable too :)
